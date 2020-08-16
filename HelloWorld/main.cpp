@@ -17,6 +17,8 @@ void Log(const char* message);
 //static
 //inline
 
+//Linking: static, dynamic
+
 int Multiply(int a, int b)
 {
     Log("Multiply");
